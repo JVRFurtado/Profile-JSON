@@ -1,0 +1,96 @@
+{
+  "name": "João Furtado",
+  "photo": "https://assets.dio.me/tE0KSuGFZjeGVgm2w8mLpxEWHa4xpgx30VWsdVZ1fEA/f:webp/h:96/q:80/w:96/L3VzZXJzL3N0dWRlbnQvZTZkNWY1YjItZDBhZS00ZWI0LWJkYjktYjFlOTVlMjAyNGE1LmpwZw",
+  "job": "Estudante de TI em busca de uma oportunidade de trabalho",
+  "location": "",
+  "phone": "() ",
+  "email": "",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Git",
+        "logo": ""
+      },
+      {
+        "name": "GitHub",
+        "logo": ""
+      },
+      {
+        "name": "HTML",
+        "logo": ""
+      },
+      {
+        "name": "JavaScript",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Organização e gestão do tempo",
+      "Aprendizado contínuo",
+      "Responsabilidade e comprometimento",
+      "Autogerenciamento",
+      "Flexibilidade diante de mudanças",
+      "Empatia e escuta ativa",
+      "Foco em resultados"
+    ]
+  },
+  "idiomas": [
+    "Português",
+    "Inglês (iniciante)",
+    "Espanhol (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Agenda de Tarefas Simples em JavaScript",
+      "url": "https://github.com/JVRFurtado/Agenda-de-Tarefas-Simples.js",
+      "github": true
+    },
+    {
+      "name": "Pokédex com JavaScript",
+      "url": "https://github.com/JVRFurtado/JavaScript-Desafio1",
+      "github": true
+    },
+    {
+      "name": "Escrevendo as Classes de um Jogo",
+      "url": "https://github.com/JVRFurtado/Logica-Desafio3",
+      "github": true
+    },
+    {
+      "name": "Recriando a Wikipédia com Layout Moderno: Série Mafia",
+      "url": "https://github.com/JVRFurtado/Html-Desafio3",
+      "github": true
+    },
+    {
+      "name": "Criando seu Primeiro Site Completo com HTML - OdontoDente",
+      "url": "https://github.com/JVRFurtado/Html-Desafio2",
+      "github": true
+    },
+    {
+      "name": "Algoritmo de Centro Pokémon",
+      "url": "https://github.com/JVRFurtado/Logica-DesafioSupresa",
+      "github": true
+    }
+  ],
+  "academicTraining":[
+    {
+      "name": "Bacharelado em Tecnologia da Informação, Tecnologia da Informação - Univesp",
+      "period": "Jul 2024 - Jun 2027",
+      "description": "Formação voltada para o desenvolvimento de soluções tecnológicas com foco em análise, desenvolvimento de sistemas, banco de dados, redes de computadores, segurança da informação e infraestrutura de TI. O curso proporciona uma base sólida em programação, arquitetura de computadores e gestão de projetos, preparando o profissional para atuar de forma estratégica e técnica no setor de tecnologia."
+    },
+    {
+      "name": "Técnico em Açúcar e Álcool, Produção Industrial - Etec Augusto Tortolero Araújo",
+      "period": "Jul 2022 - Dec 2023",
+      "description": "Formação técnica voltada para o controle, operação e supervisão dos processos industriais na produção de açúcar, etanol e subprodutos da cana-de-açúcar. O curso abrange conhecimentos em fermentação, destilação, tratamento de caldo, controle de qualidade, segurança do trabalho e meio ambiente. Capacita o profissional para atuar em usinas, laboratórios, indústrias alimentícias e bioenergéticas, com foco em eficiência produtiva e sustentabilidade."
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+      }
+  ]
+}
+
