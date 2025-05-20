@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/git.png?token=GHSAT0AAAAAADDSEC2SQGBVIUMAUN7RXF5G2BM4IMQ"
+        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/github.png?token=GHSAT0AAAAAADDSEC2SKLWF7OC75RTBQPLG2BM4I2A"
+        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/github.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/html.png?token=GHSAT0AAAAAADDSEC2TTCAX37KM47H2BDLS2BM4JDA"
+        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/js.png?token=GHSAT0AAAAAADDSEC2SMPCQE6XO3MJJOFSQ2BM4JEQ"
+        "logo": "https://raw.githubusercontent.com/JVRFurtado/Profile-JSON/refs/heads/main/imgs/js.png"
       }
     ],
     "softSkills": [
